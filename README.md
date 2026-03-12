@@ -10,13 +10,15 @@ This repo keeps **compact knowledge only** for sync and Obsidian reading.
 - `knowledge/finance/manifest.json`
 - `knowledge/shared/memory_compact.md`
 - `knowledge/shared/manifest.json`
+- `knowledge/quant/memory_compact.md`
+- `knowledge/quant/manifest.json`
 
 ## Local-only (ignored)
 
 Raw message records are kept locally and never pushed:
 
 - `local_logs/<scope>/messages-YYYY-MM.jsonl` (recommended)
-- optional local staging/output folders: `ai/`, `finance/`, `shared/`, `knowledge/*/delta/`
+- optional local staging/output folders: `ai/`, `finance/`, `quant/`, `shared/`, `knowledge/*/delta/`
 
 ## Retention & Cleanup
 
