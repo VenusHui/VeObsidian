@@ -1,28 +1,11 @@
-# Memory Compact（Finance）
+# Memory Compact
 
-- updated_at: 2026-03-12T17:26:46+08:00
-- source_window: 2026-03-11 ~ 2026-03-12
-- note: 当前周期以知识库基础设施治理为主，Finance 业务增量较少
+- updated_at: 2026-03-13T02:00:01.943726+08:00
+- budget_tokens: 3000
+- used_tokens_est: 44
+- source_day: 2026-03-12
 
-## 1) 昨日承接
-- Finance 分群知识目录已建立并接入统一 compact 结构。
-
-## 2) 今日进展（按主题归并）
-### 主题A：数据治理一致性
-- Finance 与 AI/Shared 统一采用“仓库只保留 compact、原始日志本地保存”的治理模式。
-- 日志存储与清理策略已统一（本地 JSONL + 1个月缓冲清理）。
-
-## 3) 关键决策与原因
-- 决策：Finance 侧同样执行 compact-only 入库策略。  
-  原因：保持跨 scope 的一致性，降低维护成本。
-
-## 4) 问题 / 风险
-- 本周期 Finance 业务内容输入较少，compact 业务信息密度偏低。
-- 若连续低输入，可能影响后续趋势判断，需要补充结构化观察项。
-
-## 5) 下一步与待办（P0/P1）
-### P0
-- 在 Finance 输入恢复后，按时间线模板输出“昨日联动/今日进展/下一步”。
-
-### P1
-- 预留行业、个股、组合等固定小节，提升后续 Finance compact 可读性。
+## Atomic Memories
+- [fact] 暂无明确决策语句。
+- [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
+- [fact] `finance/inbox/2026-03-12/`
