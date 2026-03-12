@@ -1,2 +1,9 @@
 .DS_Store
 Thumbs.db
+
+# Raw message logs are local-only (never commit)
+local_logs/
+ai/
+finance/
+shared/
+knowledge/*/delta/
