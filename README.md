@@ -18,7 +18,12 @@ Raw message records are kept locally and never pushed:
 - `local_logs/<scope>/messages-YYYY-MM.jsonl` (recommended)
 - optional local staging/output folders: `ai/`, `finance/`, `shared/`, `knowledge/*/delta/`
 
-## Retention suggestion
+## Retention & Cleanup
 
-- Keep local raw logs for 30–90 days, then archive or delete.
-- Repo remains clean: only compacted knowledge + scripts/docs.
+- Default policy: keep **1-month buffer**.
+  - Example: run in March → clean January and older, keep February as buffer.
+- Cleanup script:
+  - `python3 scripts/cleanup_local_logs.py --buffer-months 1 --dry-run`
+  - `python3 scripts/cleanup_local_logs.py --buffer-months 1 --apply`
+
+See `docs/local-logs.md` for full local log spec.
