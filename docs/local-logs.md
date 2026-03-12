@@ -31,6 +31,17 @@ One line = one JSON object.
 }
 ```
 
+## One-time Migration from legacy Markdown
+
+If old files still exist (like `<scope>/inbox/YYYY-MM-DD/*.md`), run:
+
+```bash
+python3 scripts/migrate_legacy_logs_to_jsonl.py          # dry-run
+python3 scripts/migrate_legacy_logs_to_jsonl.py --apply  # write JSONL
+# optional: delete old markdown after successful migration
+python3 scripts/migrate_legacy_logs_to_jsonl.py --apply --delete-source
+```
+
 ## Cleanup Policy
 
 Use a one-month buffer (default):
