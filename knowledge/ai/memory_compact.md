@@ -1,9 +1,9 @@
 # Memory Compact
 
-- updated_at: 2026-03-13T02:00:01.942979+08:00
+- updated_at: 2026-03-14T02:00:01.561656+08:00
 - budget_tokens: 3000
-- used_tokens_est: 394
-- source_day: 2026-03-12
+- used_tokens_est: 418
+- source_day: 2026-03-13
 
 ## Atomic Memories
 - [decision] 我总结成 3 条落地规则（后面我可以按这个改）：
@@ -22,3 +22,5 @@
 - [fact] 补充一版吧，另外清理时不要直接清理上个月，需要留出一些间隔，比如3月可以清理1月的，2月的作为缓冲
 - [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
 - [fact] `ai/inbox/2026-03-12/`
+- [fact] 暂无明确决策语句。
+- [fact] `ai/inbox/2026-03-13/`

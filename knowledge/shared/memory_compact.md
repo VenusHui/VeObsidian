@@ -1,9 +1,9 @@
 # Memory Compact
 
-- updated_at: 2026-03-13T02:00:01.945125+08:00
+- updated_at: 2026-03-14T02:00:01.567004+08:00
 - budget_tokens: 3000
-- used_tokens_est: 591
-- source_day: 2026-03-12
+- used_tokens_est: 826
+- source_day: 2026-03-13
 
 ## Atomic Memories
 - [decision] 我总结成 3 条落地规则（后面我可以按这个改）：
@@ -14,6 +14,11 @@
 - [decision] 如果同意，我会按这个规则做成可配置参数（默认 buffer\_months=1）。"]
 - [decision] 再确认一个约束：第一版策略代码的来源你希望是
 - [decision] C\) 先A，后续再考虑B（更安全也更快落地）"]
+- [decision] "body": "太好了，这样后续就顺了。\n那我后面就按这个分支直接推送推进；你现在可以先看这次 dev/v1.1.0 的 Actions 跑结果，如果有任何失败日志我来直接定位并修复。"
+- [decision] 你现在需要做两步确认生效：
+- [decision] 如果你同意，我可以直接改一版：
+- [decision] 我先给你一个极简改造方案，确认后我马上落代码并推送：
+- [decision] 你回我一句“确认”，我就直接改并推到 dev/v1.1.0。"]
 - [todo] 我看了一下你出的 memory_compact 文件，目前总结的问题很大，不是让你拘泥于总结消息记录的细节，而是从大纲上总结干了什么，跟昨天/之前的工作有什么联动，后面有什么改进的地方和待办项等等
 - [todo] 2. 与昨天/历史的联动（延续了什么、修复了什么、改变了什么）
 - [todo] 5. 明确待办（可执行）（按优先级）
@@ -22,6 +27,9 @@
 - [todo] 5. 下一步与待办（P0/P1）
 - [todo] 如果你愿意，我下一步可以把 knowledge/quant/ 也改成你要的那种时间线高质量版（昨日承接/今日进展/决策/风险/待办），和 ai/finance/shared 保持一致。"]
 - [todo] 按照dev/**触发吧，另外帮我检查一下我的GitHub actions配置是否有问题，有的话一并帮我修复了
+- [todo] 你直接帮我操作修复，然后重新提交
+- [todo] 我又做了一轮兜底修复并已推送：
+- [todo] 3. data\_processor.py：修复 numpy 2.x 下 np.trapz 不可用问题（改兼容 np.trapezoid）
 - [fact] 补充一版吧，另外清理时不要直接清理上个月，需要留出一些间隔，比如3月可以清理1月的，2月的作为缓冲
 - [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
 - [fact] `ai/inbox/2026-03-12/`
@@ -33,3 +41,6 @@
 - [fact] \- 缺点：需要自己维护撮合与指标计算代码。
 - [fact] \- schemas/backtest.py：回测请求/响应结构
 - [fact] `quant/inbox/2026-03-12/`
+- [fact] `ai/inbox/2026-03-13/`
+- [fact] `finance/inbox/2026-03-13/`
+- [fact] `quant/inbox/2026-03-13/`
