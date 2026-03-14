@@ -1,9 +1,9 @@
 # Memory Compact
 
-- updated_at: 2026-03-14T02:00:01.565463+08:00
+- updated_at: 2026-03-15T02:00:01.375388+08:00
 - budget_tokens: 3000
-- used_tokens_est: 389
-- source_day: 2026-03-13
+- used_tokens_est: 426
+- source_day: 2026-03-14
 
 ## Atomic Memories
 - [decision] 再确认一个约束：第一版策略代码的来源你希望是
@@ -25,3 +25,5 @@
 - [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
 - [fact] `quant/inbox/2026-03-12/`
 - [fact] `quant/inbox/2026-03-13/`
+- [fact] 我现在一次有效的回测都做不出来了，你在实现之后需要多做一些测试
+- [fact] `quant/inbox/2026-03-14/`

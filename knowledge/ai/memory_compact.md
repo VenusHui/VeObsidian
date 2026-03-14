@@ -1,9 +1,9 @@
 # Memory Compact
 
-- updated_at: 2026-03-14T02:00:01.561656+08:00
+- updated_at: 2026-03-15T02:00:01.372540+08:00
 - budget_tokens: 3000
-- used_tokens_est: 418
-- source_day: 2026-03-13
+- used_tokens_est: 433
+- source_day: 2026-03-14
 
 ## Atomic Memories
 - [decision] 我总结成 3 条落地规则（后面我可以按这个改）：
@@ -24,3 +24,4 @@
 - [fact] `ai/inbox/2026-03-12/`
 - [fact] 暂无明确决策语句。
 - [fact] `ai/inbox/2026-03-13/`
+- [fact] `ai/inbox/2026-03-14/`

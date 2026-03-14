@@ -1,9 +1,9 @@
 # Memory Compact
 
-- updated_at: 2026-03-14T02:00:01.567004+08:00
+- updated_at: 2026-03-15T02:00:01.377110+08:00
 - budget_tokens: 3000
-- used_tokens_est: 826
-- source_day: 2026-03-13
+- used_tokens_est: 896
+- source_day: 2026-03-14
 
 ## Atomic Memories
 - [decision] 我总结成 3 条落地规则（后面我可以按这个改）：
@@ -44,3 +44,7 @@
 - [fact] `ai/inbox/2026-03-13/`
 - [fact] `finance/inbox/2026-03-13/`
 - [fact] `quant/inbox/2026-03-13/`
+- [fact] `ai/inbox/2026-03-14/`
+- [fact] `finance/inbox/2026-03-14/`
+- [fact] 我现在一次有效的回测都做不出来了，你在实现之后需要多做一些测试
+- [fact] `quant/inbox/2026-03-14/`
