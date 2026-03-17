@@ -1,40 +1,18 @@
-# Finance Knowledge Compact (Rolling)
+# Memory Compact
 
-- updated_at: 2026-03-17T16:01:00+08:00
-- scope: last_3_days_backfill (2026-03-14 ~ 2026-03-16)
-- note: 日级记录保存在 `knowledge/finance/delta/YYYY-MM-DD.md`；本文件仅做滚动索引。
+- updated_at: 2026-03-18T02:00:01.985408+08:00
+- budget_tokens: 3000
+- used_tokens_est: 264
+- source_day: 2026-03-17
 
-## 1) 昨日承接
-- Finance 域近三日无独立财务分析实质增量，处于输入沉淀与规范对齐阶段。
-
-## 2) 今日进展（按主题）
-### A. 记录规范对齐
-- Finance 日报结构与其他域统一为 README 风格。
-- 明确“无新增日”也要结构化记录，避免空泛填充。
-
-### B. 数据来源管理
-- 每日输入按 `finance/inbox/YYYY-MM-DD/` 归档，保留追溯入口。
-
-## 3) 关键决策与原因
-- 真实性优先：无业务新增时明确标注“无新增”。
-- 跨域一致性优先：便于统一检索、汇总与自动化处理。
-
-## 4) 问题 / 风险
-- 若 finance 长期无实质输入，该域内容会偏薄，需要后续降频或合并策略。
-
-## 5) 下一步与待办（P0/P1）
-### P0
-- 保持 finance 每日记录模板一致，不覆盖历史日记。
-
-### P1
-- 一旦出现财务任务，优先沉淀“结论 + 证据 + 待办”闭环内容。
-
-## References
-- daily files:
-  - `knowledge/finance/delta/2026-03-14.md`
-  - `knowledge/finance/delta/2026-03-15.md`
-  - `knowledge/finance/delta/2026-03-16.md`
-- inbox:
-  - `finance/inbox/2026-03-14/`
-  - `finance/inbox/2026-03-15/`
-  - `finance/inbox/2026-03-16/`
+## Atomic Memories
+- [decision] 4. 不编造数据；无法确认时直接说并给下一步验证路径
+- [decision] 5. 兑现节奏错配：订单/合同负债与收入确认错期，若不跟踪“转化率”会误判。
+- [decision] P0（必须补，决定可比性）
+- [decision] \- 你如果同意，我下一步可以直接给你一版“字段改造方案（含单选枚举\+评分公式）”，并按该模板输出一份“22家公司优先级清单v1”。"]
+- [decision] \- 没有编造具体占比数字；凡未能从公告直接确认的都标了“待验证”。
+- [decision] 如果你同意，我下一步就直接跑 v1.1，并先从你最关注的“电力配套\+液冷温控”10家开始。"]
+- [fact] - 我需要结构化结论，而不是碎片信息
+- [fact] 目前的跟踪池多维表格如下：https://my.feishu.cn/wiki/Wf5zwI2fYib28GkqmihcFPfEnAc?table=tblMMIaeR2D567Nc&view=vewLAktjdc 检查一下是否还有需要补充的内容
+- [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
+- [fact] `finance/inbox/2026-03-17/`

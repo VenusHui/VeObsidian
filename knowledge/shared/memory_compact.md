@@ -1,51 +1,42 @@
-# Shared Knowledge Compact (Rolling)
+# Memory Compact
 
-- updated_at: 2026-03-17T16:01:00+08:00
-- scope: last_3_days_backfill (2026-03-14 ~ 2026-03-16)
-- note: 日级记录保存在 `knowledge/shared/delta/YYYY-MM-DD.md`；本文件仅做跨域滚动索引。
+- updated_at: 2026-03-18T02:00:01.988271+08:00
+- budget_tokens: 3000
+- used_tokens_est: 721
+- source_day: 2026-03-17
 
-## 1) 昨日承接
-- 识别出旧版 knowledge 的核心问题：低信息密度、覆盖历史、难以复盘。
-- 治理目标转为“高密度、可执行、可追溯”的 README 风格记录。
-
-## 2) 今日进展（按主题）
-### A. 知识库治理
-- 明确仓库策略：仅保留提炼结论，原始输入归档到 inbox。
-- 清理策略引入缓冲月，兼顾仓库整洁与近月追溯。
-
-### B. 业务推进（quant 主线）
-- 回测问题从“体验优化”切换为“可用性恢复优先”。
-- 方案收敛到“两级页面 + Tab 详情”，并补齐关键缺陷清单。
-
-### C. 验收标准
-- 从“进度可见”升级为“结果可证据化（含落库）”。
-- 强化 P0/P1 待办化，确保问题可直接执行。
-
-## 3) 关键决策与原因
-- 全域统一模板：降低维护和阅读成本。
-- 接口证据优先：减少主观判断导致的误验收。
-- 落库门槛前置：保障详情页数据稳定与复盘能力。
-
-## 4) 问题 / 风险
-- 详情跳转失效与 loading 缺失会持续破坏用户感知。
-- 服务更新中任务卡住风险若不处理，会影响整体可信度。
-- 若模板执行不持续，知识质量会快速回退。
-
-## 5) 下一步与待办（P0/P1）
-### P0
-- 全域（quant/ai/finance/shared）完成近三天 README 化回填并入库。
-- 修复 quant 详情跳转、loading 三态、更新中任务卡死路径。
-
-### P1
-- 固化治理规范（命名、清理、模板）并加最小自动化校验。
-- 补落库字段对齐与接口超时提示，提升可运维性。
-
-## References
-- daily files:
-  - `knowledge/shared/delta/2026-03-14.md`
-  - `knowledge/shared/delta/2026-03-15.md`
-  - `knowledge/shared/delta/2026-03-16.md`
-- inbox:
-  - `ai/inbox/2026-03-14~16/`
-  - `finance/inbox/2026-03-14~16/`
-  - `quant/inbox/2026-03-14~16/`
+## Atomic Memories
+- [decision] 如果你同意，我下一步可以把现有 knowledge 也按这个规范回填一版（最近 3 天或 7 天你选一个范围）。"]
+- [decision] 同意，回填一版最近三天的，然后更新到repo中我看看
+- [decision] 按这个规范同步吧
+- [decision] 4. 不编造数据；无法确认时直接说并给下一步验证路径
+- [decision] 5. 兑现节奏错配：订单/合同负债与收入确认错期，若不跟踪“转化率”会误判。
+- [decision] P0（必须补，决定可比性）
+- [decision] \- 你如果同意，我下一步可以直接给你一版“字段改造方案（含单选枚举\+评分公式）”，并按该模板输出一份“22家公司优先级清单v1”。"]
+- [decision] \- 没有编造具体占比数字；凡未能从公告直接确认的都标了“待验证”。
+- [decision] 如果你同意，我下一步就直接跑 v1.1，并先从你最关注的“电力配套\+液冷温控”10家开始。"]
+- [decision] 你这个“历史任务可删除 \+ 级联清理 \+ 慢操作处理”我给你一版可落地方案（先设计，确认后我就实现）：
+- [decision] \- 二次确认弹窗：提示“会删除明细、回合、曲线，不可恢复”
+- [decision] 5\) 与“重启恢复策略C”一起落地
+- [todo] 5. 下一步与待办（P0/P1）
+- [todo] \- Next Actions \(P0/P1\)（可直接执行的待办）
+- [todo] 你要的话我可以直接给你做一版“最小性能修复包”（后端2处\+前端1处），先把页面卡顿明显降下来。"]
+- [fact] \- Decisions（决策\+原因\+备选方案）
+- [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
+- [fact] `ai/inbox/2026-03-17/`
+- [fact] - 我需要结构化结论，而不是碎片信息
+- [fact] 目前的跟踪池多维表格如下：https://my.feishu.cn/wiki/Wf5zwI2fYib28GkqmihcFPfEnAc?table=tblMMIaeR2D567Nc&view=vewLAktjdc 检查一下是否还有需要补充的内容
+- [fact] `finance/inbox/2026-03-17/`
+- [fact] \- backtest\_jobs 中关联结果（可选，见方案）
+- [fact] 2\) 删除策略（推荐方案）
+- [fact] 方案A（推荐）：异步软触发 \+ 后台硬删除
+- [fact] 方案B：同步删除接口（不推荐）
+- [fact] 方案C：软删除（只标记）
+- [fact] 优点：慢删除不阻塞请求、体验稳定、可观察
+- [fact] \- error 写入：服务重启中断，请手动重试
+- [fact] 3. 写入统一错误信息：服务重启中断，请手动重试
+- [fact] \- error=服务重启中断，请手动重试
+- [fact] \- 但列表响应 schema 实际只需要轻量字段（状态/进度/时间）
+- [fact] \- overview/trades/rounds/snapshots/strategy\-config 同时请求
+- [fact] 4. 详情改懒加载（进入对应 tab 再请求 trades/rounds/snapshots）
+- [fact] `quant/inbox/2026-03-17/`
