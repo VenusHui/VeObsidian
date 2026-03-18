@@ -2,11 +2,14 @@
 
 - scope: finance
 - standard: Done / Learned / Next / Risks
-- source_window: latest 7 delta files
+- update_policy: skip empty day files
 
 ## Done Snapshot
+- finance/inbox/2026-03-12/
+- finance/inbox/2026-03-13/
 - FINANCE 无新增已完成事项。
 - 没有编造具体占比数字；凡未能从公告直接确认的都标了“待验证”。
+- finance/inbox/2026-03-17/
 
 ## Reusable Patterns
 - 不编造数据；无法确认时直接说并给下一步验证路径
