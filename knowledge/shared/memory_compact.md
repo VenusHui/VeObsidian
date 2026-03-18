@@ -1,42 +1,46 @@
 # Memory Compact
 
-- updated_at: 2026-03-18T02:00:01.988271+08:00
-- budget_tokens: 3000
-- used_tokens_est: 721
-- source_day: 2026-03-17
+- scope: shared
+- standard: Done / Learned / Next / Risks
+- source_window: latest 7 delta files
 
-## Atomic Memories
-- [decision] 如果你同意，我下一步可以把现有 knowledge 也按这个规范回填一版（最近 3 天或 7 天你选一个范围）。"]
-- [decision] 同意，回填一版最近三天的，然后更新到repo中我看看
-- [decision] 按这个规范同步吧
-- [decision] 4. 不编造数据；无法确认时直接说并给下一步验证路径
-- [decision] 5. 兑现节奏错配：订单/合同负债与收入确认错期，若不跟踪“转化率”会误判。
-- [decision] P0（必须补，决定可比性）
-- [decision] \- 你如果同意，我下一步可以直接给你一版“字段改造方案（含单选枚举\+评分公式）”，并按该模板输出一份“22家公司优先级清单v1”。"]
-- [decision] \- 没有编造具体占比数字；凡未能从公告直接确认的都标了“待验证”。
-- [decision] 如果你同意，我下一步就直接跑 v1.1，并先从你最关注的“电力配套\+液冷温控”10家开始。"]
-- [decision] 你这个“历史任务可删除 \+ 级联清理 \+ 慢操作处理”我给你一版可落地方案（先设计，确认后我就实现）：
-- [decision] \- 二次确认弹窗：提示“会删除明细、回合、曲线，不可恢复”
-- [decision] 5\) 与“重启恢复策略C”一起落地
-- [todo] 5. 下一步与待办（P0/P1）
-- [todo] \- Next Actions \(P0/P1\)（可直接执行的待办）
-- [todo] 你要的话我可以直接给你做一版“最小性能修复包”（后端2处\+前端1处），先把页面卡顿明显降下来。"]
-- [fact] \- Decisions（决策\+原因\+备选方案）
-- [fact] 如需更高质量摘要，可在此基础上接入 LLM 精炼。
-- [fact] `ai/inbox/2026-03-17/`
-- [fact] - 我需要结构化结论，而不是碎片信息
-- [fact] 目前的跟踪池多维表格如下：https://my.feishu.cn/wiki/Wf5zwI2fYib28GkqmihcFPfEnAc?table=tblMMIaeR2D567Nc&view=vewLAktjdc 检查一下是否还有需要补充的内容
-- [fact] `finance/inbox/2026-03-17/`
-- [fact] \- backtest\_jobs 中关联结果（可选，见方案）
-- [fact] 2\) 删除策略（推荐方案）
-- [fact] 方案A（推荐）：异步软触发 \+ 后台硬删除
-- [fact] 方案B：同步删除接口（不推荐）
-- [fact] 方案C：软删除（只标记）
-- [fact] 优点：慢删除不阻塞请求、体验稳定、可观察
-- [fact] \- error 写入：服务重启中断，请手动重试
-- [fact] 3. 写入统一错误信息：服务重启中断，请手动重试
-- [fact] \- error=服务重启中断，请手动重试
-- [fact] \- 但列表响应 schema 实际只需要轻量字段（状态/进度/时间）
-- [fact] \- overview/trades/rounds/snapshots/strategy\-config 同时请求
-- [fact] 4. 详情改懒加载（进入对应 tab 再请求 trades/rounds/snapshots）
-- [fact] `quant/inbox/2026-03-17/`
+## Done Snapshot
+- 你这句很关键：“仓库简明清晰，只放提炼后的知识”——我完全同意。
+- 先确认一个关键参数（确认后我就按这个实现）：
+- 如果同意，我会按这个规则做成可配置参数（默认 buffer_months=1）。
+- 方案 1（我推荐）：轻量自研回测引擎（贴合你现有架构）
+- 方案 2：接入 Backtrader 作为底层引擎
+- 你现在需要做两步确认生效：
+- 我先给你一个极简改造方案，确认后我马上落代码并推送：
+- 你回我一句“确认”，我就直接改并推到 dev/v1.1.0。
+- SHARED 无新增已完成事项。
+- 如果你同意，我现在就直接改这两块并给你一轮 curl 对比结果。
+
+## Reusable Patterns
+- 再确认一个约束：第一版策略代码的来源你希望是
+- 不编造数据；无法确认时直接说并给下一步验证路径
+- 兑现节奏错配：订单/合同负债与收入确认错期，若不跟踪“转化率”会误判。
+- P0（必须补，决定可比性）
+- 你如果同意，我下一步可以直接给你一版“字段改造方案（含单选枚举+评分公式）”，并按该模板输出一份“22家公司优先级清单v1”。
+- 我需要结构化结论，而不是碎片信息
+- 方案A（推荐）：异步软触发 + 后台硬删除
+
+## Next Priorities
+- 我总结成 3 条落地规则（后面我可以按这个改）：
+- 如果你愿意，我下一步可以直接给出一版具体规范（目录结构 + 文件命名 + .gitignore + 清理策略 + 迁移脚本思路），你确认后就按这个执行。
+- 就按这个执行，另外需要把现有仓库的内容清理一下
+- 补充一版吧，另外清理时不要直接清理上个月，需要留出一些间隔，比如3月可以清理1月的，2月的作为缓冲
+- 我看了一下你出的 memory_compact 文件，目前总结的问题很大，不是让你拘泥于总结消息记录的细节，而是从大纲上总结干了什么，跟昨天/之前的工作有什么联动，后面有什么改进的地方和待办项等等
+- 与昨天/历史的联动（延续了什么、修复了什么、改变了什么）
+- 如果你同意，我可以直接改一版：
+- 你直接帮我操作修复，然后重新提交
+- 我又做了一轮兜底修复并已推送：
+- data_processor.py：修复 numpy 2.x 下 np.trapz 不可用问题（改兼容 np.trapezoid）
+
+## Active Risks
+- 如果你愿意，我下一步可以把 knowledge/quant/[memory_compact.md](memory_compact.md) 也改成你要的那种时间线高质量版（昨日承接/今日进展/决策/风险/待办），和 ai/finance/shared 保持一致。
+- body: 太好了，这样后续就顺了。\n那我后面就按这个分支直接推送推进；你现在可以先看这次 dev/v1.1.0 的 Actions 跑结果，如果有任何失败日志我来直接定位并修复。
+- body: 已直接帮你修复并推送了 ✅\n这次我处理了两处根因：\n1. 网络抖动导致 AKShare 分时接口断连\n- 在 fetch_minute_data 增加了重试机制（默认最多重试 2 次，带退避等待）\n- 避免 RemoteDisconnected 一次失败就直接打穿流程\n2. 无数据时 datetime 列不存在导致 500\n- 在 get_minute_data 里对空结果做了兜底：\n- 返回带标准列的空 DataFrame（含 datetime）\n- 空数据时不再访问 result_df\\[\datetime\\\]，避免 KeyError: 'datetime'\n已提交并推送到 dev/v1.1.0：\n- commit: 0e3be16\n- message: fix: handle empty minute data and retry akshare requests\n你现在可以再触发一次回测验证；按这个修复，之前那种 500（获取分钟数据失败: 'datetime'）应该不会再出现了。
+- body: 已帮你修复并提交 ✅\n- 已对报错的 10 个 Python 文件执行 Black 格式化\n- 已提交到分支 dev/v1.1.0\n- 提交哈希：516e8e2\n- 已推送到远端：origin/dev/v1.1.0\n你现在可以直接去看这次 Actions，理论上这个 black --check . 报错会消失。
+- 优点：慢删除不阻塞请求、体验稳定、可观察
+- 你要的话我可以直接给你做一版“最小性能修复包”（后端2处+前端1处），先把页面卡顿明显降下来。
