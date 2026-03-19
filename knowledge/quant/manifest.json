@@ -1,7 +1,8 @@
 {
   "day": "2026-03-18",
-  "new_items": 15,
-  "kept_items": 15,
-  "used_tokens_est": 230,
-  "max_tokens": 3000
+  "new_items": 14,
+  "kept_topics": 14,
+  "used_tokens_est": 527,
+  "max_tokens": 3000,
+  "style": "topic-card"
 }
