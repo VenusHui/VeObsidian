@@ -304,3 +304,12 @@ pipeline done for 2026-03-19
 /home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-20.md
 /home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-20.md
 {"day": "2026-03-20", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-20", "new_items": 4, "kept_topics": 4, "used_tokens_est": 231, "max_tokens": 3000, "style": "topic-card"}, "quant": {"day": "2026-03-20", "new_items": 14, "kept_topics": 14, "used_tokens_est": 595, "max_tokens": 3000, "style": "topic-card"}, "shared": {"day": "2026-03-20", "new_items": 17, "kept_topics": 17, "used_tokens_est": 732, "max_tokens": 3000, "style": "topic-card"}}}
+pipeline done for 2026-03-20
+{
+  "created": 0,
+  "files": []
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-20.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-20.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-20.md
+{"day": "2026-03-20", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-20", "new_items": 4, "kept_topics": 4, "used_tokens_est": 231, "max_tokens": 3000, "style": "topic-card"}, "quant": {"day": "2026-03-20", "new_items": 14, "kept_topics": 14, "used_tokens_est": 595, "max_tokens": 3000, "style": "topic-card"}, "shared": {"day": "2026-03-20", "new_items": 17, "kept_topics": 17, "used_tokens_est": 732, "max_tokens": 3000, "style": "topic-card"}}}
