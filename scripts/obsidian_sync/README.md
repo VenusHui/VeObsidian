@@ -79,7 +79,7 @@ bash scripts/obsidian_sync/run_pipeline.sh 2026-03-11
 
 ## 7) 定时任务（服务器）
 ```cron
-0 2 * * * /home/ubuntu/.openclaw/workspace/scripts/obsidian_sync/run_pipeline.sh
+0 2 * * * /home/ubuntu/.openclaw/workspace/obsidian-kb-server/scripts/obsidian_sync/run_pipeline.sh
 ```
 
 ## 7) 本地电脑同步

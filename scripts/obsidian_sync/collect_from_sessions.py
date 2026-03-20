@@ -70,11 +70,13 @@ def ingest_one(repo: Path, board: str, chat_id: str, sender: str, text: str, ts:
 
 
 def main():
+    script_dir = Path(__file__).resolve().parent
+
     p = argparse.ArgumentParser()
     p.add_argument("--repo", required=True)
     p.add_argument("--mapping", required=True)
     p.add_argument("--sessions-index", default="/home/ubuntu/.openclaw/agents/main/sessions/sessions.json")
-    p.add_argument("--state", default="/home/ubuntu/.openclaw/workspace/scripts/obsidian_sync/.collect_state.json")
+    p.add_argument("--state", default=str(script_dir / ".collect_state.json"))
     args = p.parse_args()
 
     repo = Path(args.repo)
