@@ -1,0 +1,306 @@
+{
+  "created": 4,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-11/233800_om_x100b542c8b5f24a4b2dc455e016b74c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-11/234700_om_x100b542ca6dedd34b298aac291ea11e.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-11/234800_om_x100b542ca50130a0b20ebef322187a9.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/inbox/2026-03-11/234944_294d512c.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-11.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-11.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-11.md
+{"day": "2026-03-11", "scopes": {"ai": {"day": "2026-03-11", "new_items": 13, "kept_items": 13, "used_tokens_est": 241, "max_tokens": 3000}, "finance": {"day": "2026-03-11", "new_items": 3, "kept_items": 3, "used_tokens_est": 44, "max_tokens": 3000}, "shared": {"day": "2026-03-11", "new_items": 15, "kept_items": 15, "used_tokens_est": 268, "max_tokens": 3000}}}
+pipeline done for 2026-03-11
+{
+  "created": 0,
+  "files": []
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-11.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-11.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-11.md
+{"day": "2026-03-11", "scopes": {"ai": {"day": "2026-03-11", "new_items": 13, "kept_items": 13, "used_tokens_est": 241, "max_tokens": 3000}, "finance": {"day": "2026-03-11", "new_items": 3, "kept_items": 3, "used_tokens_est": 44, "max_tokens": 3000}, "shared": {"day": "2026-03-11", "new_items": 15, "kept_items": 15, "used_tokens_est": 268, "max_tokens": 3000}}}
+pipeline done for 2026-03-11
+{
+  "created": 10,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-12/222600_om_x100b54189c169880c3f11cbff09586d.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/222200_om_x100b54188ddcf4a8c3d9bde960bc4bc.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/222800_om_x100b5418960e4904c101fe6f39ddac5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/223300_om_x100b5418a5f0f8a4c4940fb4834aa35.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/223400_om_x100b5418a071eca8c425acf0087e3c8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/223500_om_x100b5418bc2cb0a8c3bcf3c4a4a4cab.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/224100_om_x100b541944c6bcb8c2eaaf239abe22a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/224800_om_x100b54196d6d94a8c3639e60e01654f.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/224900_om_x100b5419695a90a0c4a1e2b300f64e9.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-12/230300_om_x100b541914ab40a0c4a5592df1730cd.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-12.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-12.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-12.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-12.md
+{"day": "2026-03-12", "scopes": {"ai": {"day": "2026-03-12", "new_items": 16, "kept_items": 16, "used_tokens_est": 394, "max_tokens": 3000}, "finance": {"day": "2026-03-12", "new_items": 3, "kept_items": 3, "used_tokens_est": 44, "max_tokens": 3000}, "quant": {"day": "2026-03-12", "new_items": 10, "kept_items": 10, "used_tokens_est": 187, "max_tokens": 3000}, "shared": {"day": "2026-03-12", "new_items": 27, "kept_items": 27, "used_tokens_est": 591, "max_tokens": 3000}}}
+pipeline done for 2026-03-12
+{
+  "created": 22,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/085600_om_x100b540243aed508b216c833283a2eb.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/085700_om_x100b54025e79e8acc358a3fbca07163.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/085800_om_x100b54025c7748a4c34fddb44bd711e.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/101800_om_x100b540373bb9484c3adc4678337a96.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/103100_om_x100b5403216aa0ecc2aca6d015185c8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/103400_om_x100b5403344900a0c3f6c24264b29fa.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/103500_om_x100b540330ddc080c3b5a0a7279ccd6.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/105600_om_x100b5403833734b8c39b4722d8b6494.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/112000_om_x100b540c698080b0c12f2c9630b0167.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/113600_om_x100b540c2beb190cc3271050012dfda.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/121900_om_x100b540d4bb8d8a8c38519377f66527.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/123200_om_x100b540d7a242ca0c4f93e9c5909f34.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/123500_om_x100b540d0f0300acc3a456de1336312.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/124100_om_x100b540d169f6cb4c3a40e731a806fd.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/124200_om_x100b540d1733b4b4c42a8d56670f2c1.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/141900_om_x100b540e8ba3d8a4c3faa6b5a4fa6c8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/142800_om_x100b540ea4acdcbcc2dffaae6a877f6.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/173400_om_x100b5409edf7c080c29c70fb0fb71ed.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/173800_om_x100b5409fff058b0c38accc9d3a652e.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/193100_om_x100b540b178760a8c12bd8230241cc0.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/193200_om_x100b540b13dfd484c1091639262db0b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-13/203300_om_x100b54740ebf50a0c31f67549f137d9.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-13.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-13.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-13.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-13.md
+{"day": "2026-03-13", "scopes": {"ai": {"day": "2026-03-13", "new_items": 3, "kept_items": 18, "used_tokens_est": 418, "max_tokens": 3000}, "finance": {"day": "2026-03-13", "new_items": 3, "kept_items": 4, "used_tokens_est": 62, "max_tokens": 3000}, "quant": {"day": "2026-03-13", "new_items": 10, "kept_items": 19, "used_tokens_est": 389, "max_tokens": 3000}, "shared": {"day": "2026-03-13", "new_items": 13, "kept_items": 38, "used_tokens_est": 826, "max_tokens": 3000}}}
+pipeline done for 2026-03-13
+{
+  "created": 1,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-14/170200_om_x100b54660fa924a0c36f4e29bd2292f.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-14.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-14.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-14.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-14.md
+{"day": "2026-03-14", "scopes": {"ai": {"day": "2026-03-14", "new_items": 3, "kept_items": 19, "used_tokens_est": 433, "max_tokens": 3000}, "finance": {"day": "2026-03-14", "new_items": 3, "kept_items": 5, "used_tokens_est": 80, "max_tokens": 3000}, "quant": {"day": "2026-03-14", "new_items": 3, "kept_items": 21, "used_tokens_est": 426, "max_tokens": 3000}, "shared": {"day": "2026-03-14", "new_items": 6, "kept_items": 42, "used_tokens_est": 896, "max_tokens": 3000}}}
+pipeline done for 2026-03-14
+{
+  "created": 17,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/101300_om_x100b545515beb0b8c2a052248f16e1c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/102500_om_x100b5455c7b13d30c3195d2a7f89f74.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/102700_om_x100b5455df5cb4a0c44946c6922b760.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/142300_om_x100b5451483524a4c3103b61814fb7a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/142700_om_x100b54515daf44a0b2b8a78b449eec8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/143000_om_x100b54516f8170b0c4a7fb8f1049e7c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/143100_om_x100b54516afb74a4c14ff1d0a7cbf9b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/143300_om_x100b5451620f00a0c49a1b59d064dd4.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/143400_om_x100b545161d908a8c2b4a34b112c736.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/165000_om_x100b54536021e8a8c4f98fd55c89b53.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/165200_om_x100b545378eaa0acc3a0800646f8ca7.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/172000_om_x100b5453d142aca0c3ade67d7f882a1.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/172100_om_x100b5453ec8988acc39e1cda1b9e907.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/172400_om_x100b5453e24a54b0c3129639e743cd5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/172600_om_x100b5453fa002ca4c35c95d64e78098.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/185300_om_x100b545cb45218a0c3aeedfd3c58bba.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-15/185500_om_x100b545d4d8cc0b0c4e4adfae8eb1ac.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-15.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-15.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-15.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-15.md
+{"day": "2026-03-15", "scopes": {"ai": {"day": "2026-03-15", "new_items": 3, "kept_items": 20, "used_tokens_est": 448, "max_tokens": 3000}, "finance": {"day": "2026-03-15", "new_items": 3, "kept_items": 6, "used_tokens_est": 98, "max_tokens": 3000}, "quant": {"day": "2026-03-15", "new_items": 12, "kept_items": 32, "used_tokens_est": 627, "max_tokens": 3000}, "shared": {"day": "2026-03-15", "new_items": 15, "kept_items": 55, "used_tokens_est": 1130, "max_tokens": 3000}}}
+pipeline done for 2026-03-15
+{
+  "created": 16,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/142000_om_x100b544e5e3d9880c1025c86912ab1b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/142500_om_x100b544e6b2a3480c2eb4f59211cd8c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/143400_om_x100b544e08cbf4acc3a61ddef5cb54a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/145400_om_x100b544edf6410a0c45da3858050bbc.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/145600_om_x100b544ed7fa4050c2b53514180887d.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/151800_om_x100b544ea537f4a8c37ad65643ac1cf.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/152500_om_x100b544f48e4e0bcc29f27f696461e8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/152700_om_x100b544f42fc90a8c2c2d300c2549f1.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/153200_om_x100b544f6e728898c3dae96ec663b61.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/164900_om_x100b54480ddc5c90c3bbe5c10f23b1c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/184200_om_x100b5449a74434acc344b03925c8be5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/184400_om_x100b5449a14490b0c448dfc66a0e9a2.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/184500_om_x100b5449b8e9a8a0c44a5e4244c58fd.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/200100_om_x100b544b5e2984bcc3ad6cd4f27f1ce.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/215300_om_x100b54b4f88bd8b4c4516afe2e9caba.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-16/220600_om_x100b54b4a97f8ca8b2c7108970a474d.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-16.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-16.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-16.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-16.md
+{"day": "2026-03-16", "scopes": {"ai": {"day": "2026-03-16", "new_items": 3, "kept_items": 21, "used_tokens_est": 463, "max_tokens": 3000}, "finance": {"day": "2026-03-16", "new_items": 3, "kept_items": 7, "used_tokens_est": 116, "max_tokens": 3000}, "quant": {"day": "2026-03-16", "new_items": 17, "kept_items": 48, "used_tokens_est": 1101, "max_tokens": 3000}, "shared": {"day": "2026-03-16", "new_items": 20, "kept_items": 73, "used_tokens_est": 1637, "max_tokens": 3000}}}
+pipeline done for 2026-03-16
+{
+  "created": 30,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-17/155100_om_x100b54a4cf75c480c33fa7b598f1333.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-17/155300_om_x100b54a4c66e64bcc2ac80839b8902d.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-17/155800_om_x100b54a4d4e7b8a8c3eef23265418cb.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/inbox/2026-03-17/155800_om_x100b54a4d51be8b0c4d9501f8a95045.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/inbox/2026-03-17/160100_om_x100b54a4ea753080c2b2976c8feef70.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/inbox/2026-03-17/160700_om_x100b54a4f5d77480c3effe35e762e21.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/inbox/2026-03-17/161300_om_x100b54a49d7accecc4d176e8bd614d0.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/084000_om_x100b54be61477478b32d0dc88642403.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/084700_om_x100b54be0765fcacb20b45336d93eeb.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/084900_om_x100b54be1e257ca4b211ab7ba1f52af.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/095400_om_x100b54bf0d38b4acc4548cdb83390c8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/154900_om_x100b54a439b540a4c2ea4eb123316e7.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/163800_om_x100b54a5616b1ca8c3ba3fefa7a609a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/164000_om_x100b54a577abacb0c381f3f8265e808.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/164900_om_x100b54a51452bcacc3a07bbf0ed66f4.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/165400_om_x100b54a5221be0b8c37a033d9c990e6.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/165500_om_x100b54a521434cb8c429dc6e17fda13.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/165700_om_x100b54a539afa0b8c37e1ef1a4afcd2.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/171600_om_x100b54a5f377a080c2e7128313fae57.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/172100_om_x100b54a59c85ecb0c3a0f2d82333e39.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/172600_om_x100b54a5abd378b0c4e8f59d89d54b3.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/183900_om_x100b54a6bbb99cb4c37bb1b7d01e1e1.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/184200_om_x100b54a74c5c8484c451dcff05e356f.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/184500_om_x100b54a740f1e0a8c4e49149d4be93e.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/200700_om_x100b54a0715f34bcc365bdc2e778a7e.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/200800_om_x100b54a00c2370b4c3a446facf5c40c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/202900_om_x100b54a0dde360acc2dc4563a0e8c2a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/211500_om_x100b54a10e19fca0c2a359b49db8947.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/213500_om_x100b54a1c5cfd8a8c34bc8e427351ed.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-17/221900_om_x100b54a2639738a8b2116fde1f0828a.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-17.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-17.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-17.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-17.md
+{"day": "2026-03-17", "scopes": {"ai": {"day": "2026-03-17", "new_items": 8, "kept_items": 8, "used_tokens_est": 147, "max_tokens": 3000}, "finance": {"day": "2026-03-17", "new_items": 10, "kept_items": 10, "used_tokens_est": 264, "max_tokens": 3000}, "quant": {"day": "2026-03-17", "new_items": 18, "kept_items": 18, "used_tokens_est": 344, "max_tokens": 3000}, "shared": {"day": "2026-03-17", "new_items": 34, "kept_items": 34, "used_tokens_est": 721, "max_tokens": 3000}}}
+pipeline done for 2026-03-17
+{
+  "created": 20,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/082400_om_x100b54ab45ed84a4c3b9f34145b75d0.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/101500_om_x100b5494e36ee884c31d985b1f18f10.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/155600_om_x100b5491e593fcb4c3853fc59c3ff92.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/162800_om_x100b54926c45a0bcc3b8a3b59373862.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/163100_om_x100b5492626294b0c2d95a88b499270.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/164600_om_x100b54922bdcf49cc45915520bdb2fa.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/165600_om_x100b5492c474d880c3975d51424d2b2.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/171800_om_x100b549290159cb0c493e8020173551.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/082600_om_x100b54ab5c5014a8c37d9de20163605.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/090800_om_x100b54abe038e078c3890e0fb7ad23a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/091100_om_x100b54abf3cd14b8c33525bc39ecfd0.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/091300_om_x100b54ab8c4bbca4c3343155bfa57ac.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/091500_om_x100b54ab82ba8ca8c4c6c5a091c843f.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/091800_om_x100b54ab9ba9f0a8c4ebbf9507de8bc.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/113900_om_x100b5495a62a3cb4c4d05dc46e60d49.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/114200_om_x100b5495bf7ab4b8c2ead4639c18f67.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/114400_om_x100b5495b6637cb8c4cdf1e7e152363.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/125500_om_x100b54974d8208a4c3608e04004a344.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/134100_om_x100b5497e1ed3ca4c10a2a17723075b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/134200_om_x100b5497fd2dc0b4c4a0eb2d3900e74.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-17.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/finance/daily/2026-03-17.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-17.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-17.md
+{"day": "2026-03-17", "active_boards": ["ai", "finance", "quant"], "scopes": {"ai": {"day": "2026-03-17", "new_items": 8, "kept_items": 8, "used_tokens_est": 147, "max_tokens": 3000}, "finance": {"day": "2026-03-17", "new_items": 10, "kept_items": 10, "used_tokens_est": 264, "max_tokens": 3000}, "quant": {"day": "2026-03-17", "new_items": 18, "kept_items": 18, "used_tokens_est": 344, "max_tokens": 3000}, "shared": {"day": "2026-03-17", "new_items": 34, "kept_items": 34, "used_tokens_est": 721, "max_tokens": 3000}}}
+pipeline done for 2026-03-17
+{
+  "created": 23,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/172400_om_x100b5492b84b0084c2ce38a61a8344b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/190000_om_x100b549c1592f8b8c4d5ed893fa7ff3.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/192100_om_x100b549ce3821ca0b4cbf2435fc0433.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-18/192200_om_x100b549cfe1b08a4b3208d45eba1ba4.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/181800_om_x100b5493f379d0a0c3b68eaa35d0c3a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/182000_om_x100b54938916f0acc4d99d808ef958f.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/182200_om_x100b5493836764acc44fc1640dd0071.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/182300_om_x100b54939ea0c8b0c3434932638f56d.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/182400_om_x100b54939ba508b4c445d7b471778f5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/182800_om_x100b5493aa4a8cb8c4ceb065b4ef812.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/182900_om_x100b5493a6381ca4c2c951aa89c004d.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/183800_om_x100b549c45ba38b0c32abbbb4c95b6a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/184100_om_x100b549c5996c0acc49fbaaed71d726.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/185300_om_x100b549c0aef14a4c313dc753b606c1.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/185700_om_x100b549c1c5f4ca0c2d82b4dc985224.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/192200_om_x100b549ce00aeca4b28cf404a713d68.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/221400_om_x100b549f7a1a84a0c4f7d26fcda94a0.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/223600_om_x100b549fcb30f4b8b2e20b401f375f1.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/223700_om_x100b549fc77e9cb0b4c869dc06e2ad5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/235800_om_x100b5498f49030a0b4b4f246ab00582.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/235800_om_x100b5498f2d904a8b4a2bb6b0784333.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-18/235900_om_x100b5498f304e53cb49d21e8d3cf308.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/002800_om_x100b549967d8bca8b335f5bfe47bc31.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-18.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-18.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-18.md
+{"day": "2026-03-18", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-18", "new_items": 18, "kept_items": 18, "used_tokens_est": 409, "max_tokens": 3000}, "quant": {"day": "2026-03-18", "new_items": 15, "kept_items": 15, "used_tokens_est": 230, "max_tokens": 3000}, "shared": {"day": "2026-03-18", "new_items": 32, "kept_items": 32, "used_tokens_est": 622, "max_tokens": 3000}}}
+pipeline done for 2026-03-18
+{
+  "created": 0,
+  "files": []
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-18.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-18.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-18.md
+{"day": "2026-03-18", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-18", "new_items": 18, "kept_items": 18, "used_tokens_est": 409, "max_tokens": 3000}, "quant": {"day": "2026-03-18", "new_items": 15, "kept_items": 15, "used_tokens_est": 230, "max_tokens": 3000}, "shared": {"day": "2026-03-18", "new_items": 32, "kept_items": 32, "used_tokens_est": 622, "max_tokens": 3000}}}
+pipeline done for 2026-03-18
+{
+  "created": 9,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-19/161500_om_x100b548f451c48a0c306a5713ee4ae7.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-19/161800_om_x100b548f5bd898acc2c030b61f3764e.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-19/162600_om_x100b548f7f3388b4c37fbff8eba81b8.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/081000_om_x100b5487a33658a4c4f403e09b4fc25.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/104400_om_x100b54827e9e5cacc33e95e1a14e8ba.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/104800_om_x100b54827174c4acc42216667a1d3a5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/111400_om_x100b5482ef8088b0c2b2ee9dfd3833c.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/181400_om_x100b54888973d568b371620ba258839.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-19/192800_om_x100b5489914c74bcc38e8bf2239c1c8.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-19.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-19.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-19.md
+{"day": "2026-03-19", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-19", "new_items": 4, "kept_topics": 3, "used_tokens_est": 237, "max_tokens": 3000, "style": "topic-card"}, "quant": {"day": "2026-03-19", "new_items": 9, "kept_topics": 9, "used_tokens_est": 447, "max_tokens": 3000, "style": "topic-card"}, "shared": {"day": "2026-03-19", "new_items": 12, "kept_topics": 11, "used_tokens_est": 590, "max_tokens": 3000, "style": "topic-card"}}}
+pipeline done for 2026-03-19
+{
+  "created": 0,
+  "files": []
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-19.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-19.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-19.md
+{"day": "2026-03-19", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-19", "new_items": 4, "kept_topics": 3, "used_tokens_est": 237, "max_tokens": 3000, "style": "topic-card"}, "quant": {"day": "2026-03-19", "new_items": 9, "kept_topics": 9, "used_tokens_est": 447, "max_tokens": 3000, "style": "topic-card"}, "shared": {"day": "2026-03-19", "new_items": 12, "kept_topics": 11, "used_tokens_est": 590, "max_tokens": 3000, "style": "topic-card"}}}
+pipeline done for 2026-03-19
+{
+  "created": 11,
+  "files": [
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-20/171100_om_x100b54e4ba6f34bcc10e3c1629f615b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/inbox/2026-03-20/171500_om_x100b54e54a035d38c32bf9b985d29a0.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/104400_om_x100b54ff06e308a4c3827ce25c83742.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/104600_om_x100b54ff002f64b0c295f3b0076e0d5.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/114300_om_x100b54f868704c88c2e189bf207c1ca.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/133600_om_x100b54f982045cb4c44d60d749712da.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/133700_om_x100b54f99de318a0c33663ca95dbde3.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/140500_om_x100b54fa77f870acb29fbbca58b2b9a.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/142900_om_x100b54fadaba40b0c3a9a0c861d4b2b.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/171400_om_x100b54e4b0dcfcf4c303d787293b6af.md",
+    "/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/inbox/2026-03-20/171500_om_x100b54e54d63ecb0c103752adffe6a7.md"
+  ]
+}
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/ai/daily/2026-03-20.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/quant/daily/2026-03-20.md
+/home/ubuntu/.openclaw/workspace/obsidian-kb-server/shared/daily/2026-03-20.md
+{"day": "2026-03-20", "active_boards": ["ai", "quant"], "scopes": {"ai": {"day": "2026-03-20", "new_items": 4, "kept_topics": 4, "used_tokens_est": 231, "max_tokens": 3000, "style": "topic-card"}, "quant": {"day": "2026-03-20", "new_items": 14, "kept_topics": 14, "used_tokens_est": 595, "max_tokens": 3000, "style": "topic-card"}, "shared": {"day": "2026-03-20", "new_items": 17, "kept_topics": 17, "used_tokens_est": 732, "max_tokens": 3000, "style": "topic-card"}}}
